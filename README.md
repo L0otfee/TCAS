@@ -58,15 +58,20 @@ cd TCAS
 - **assets/**: โฟลเดอร์ที่มีไฟล์สแตติก เช่น รูปภาพและ CSS แบบกำหนดเอง
 - **output final.csv**: ไฟล์ข้อมูลที่ใช้สำหรับเติมข้อมูลในแดชบอร์ด
 
-##ตัวอย่างผลการแสดง
+## ตัวอย่างผลการแสดง
 <img width="1440" height="848" alt="Screenshot 2568-07-27 at 23 16 46" src="https://github.com/user-attachments/assets/a59dd230-85cb-4cb8-a0c3-2b1b9c877c1b" />
 <img width="1440" height="849" alt="Screenshot 2568-07-27 at 23 17 26" src="https://github.com/user-attachments/assets/6197d7cd-4651-4b33-850e-39a97ab07b9b" />
 <img width="1440" height="849" alt="Screenshot 2568-07-27 at 23 18 23" src="https://github.com/user-attachments/assets/0e92578e-9c69-4d8d-b14d-7e428fccc1a6" />
 
+## เมื่อผู้ใช้งานทำการเลือก มหาวิทยาลัยสงขลานครินทร์ โดยระบุสาขาวิชาเป็น
+“วิศวกรรมคอมพิวเตอร์ วิทยาเขตสงขลา”
+ระบบจะดำเนินการกรองข้อมูลเพื่อนำเสนอเฉพาะหลักสูตรที่ตรงตามเงื่อนไขดังกล่าว
+ผลลัพธ์ที่ปรากฏจะแสดงรายละเอียดของหลักสูตรอย่างครบถ้วน
+<img width="1440" height="847" alt="Screenshot 2568-07-27 at 23 20 34" src="https://github.com/user-attachments/assets/e61df9bb-c02c-434b-9480-821042f48134" />
+<img width="1440" height="848" alt="Screenshot 2568-07-27 at 23 20 45" src="https://github.com/user-attachments/assets/6ff44452-cb0c-4cfe-bef6-11641c1b38c7" />
 
-## สร้างโดย
 
-ลุตฟี ซาและ
+## สร้างโดย ลุตฟี ซาและ
 
 Email: Lutfee2salaeh@gmail.com
 
